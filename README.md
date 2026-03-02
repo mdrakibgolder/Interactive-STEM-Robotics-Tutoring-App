@@ -3,6 +3,10 @@
 An educational mobile app that blends digital tutoring with real-world, hands-on learning.
 The app uses the phone camera to analyze robotics setups, handwritten logic, and hardware sketches, then provides real-time contextual feedback with gamified progress.
 
+## 🔗 GitHub
+
+- Repository: https://github.com/mdrakibgolder/Interactive-STEM-Robotics-Tutoring-App
+
 ## ✨ Core Features
 
 - **Track-based tutoring**
